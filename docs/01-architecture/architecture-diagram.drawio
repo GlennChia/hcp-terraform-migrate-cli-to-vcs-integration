@@ -1,0 +1,188 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.2.8 Chrome/140.0.7339.240 Electron/38.4.0 Safari/537.36" version="28.2.8" pages="2">
+  <diagram name="steps" id="mQL5t7dV3Cso5gXMw9Hf">
+    <mxGraphModel dx="1357" dy="924" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LXrLxAanXDScuGBEtvMZ-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=light-dark(#7c42bc, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="600" y="390" width="150" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="LXrLxAanXDScuGBEtvMZ-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="390" width="460" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="LXrLxAanXDScuGBEtvMZ-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="80" width="460" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="ScVFuP6iJTitxf5c61Q--1" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgNy41IDUwIDU3IiBoZWlnaHQ9IjU3IiB3aWR0aD0iNTAiIGlkPSJMb2dvcyI+PGRlZnM+PHN0eWxlPi5jbHMtMXtmaWxsOiM3YjQyYmM7ZmlsbC1ydWxlOmV2ZW5vZGQ7c3Ryb2tlLXdpZHRoOjBweDt9PC9zdHlsZT48L2RlZnM+PHBhdGggZD0iTTE3LjMsMTcuNWwxNS41LDl2MThsLTE1LjUtOXYtMThaIiBjbGFzcz0iY2xzLTEiLz48cGF0aCBkPSJNMzQuNSwyNi41djE4bDE1LjUtOXYtMThsLTE1LjUsOVoiIGNsYXNzPSJjbHMtMSIvPjxwYXRoIGQ9Ik0wLDcuNXYxOGwxNS41LDl2LTE4TDAsNy41WiIgY2xhc3M9ImNscy0xIi8+PHBhdGggZD0iTTE3LjMsNTUuNWwxNS41LDl2LTE4bC0xNS41LTl2MThaIiBjbGFzcz0iY2xzLTEiLz48L3N2Zz4=;" vertex="1" parent="1">
+          <mxGeometry x="610" y="4.399999999999979" width="40" height="45.6" as="geometry" />
+        </mxCell>
+        <mxCell id="ScVFuP6iJTitxf5c61Q--2" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.github;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="770" y="870" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ScVFuP6iJTitxf5c61Q--7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="LXrLxAanXDScuGBEtvMZ-4" target="ScVFuP6iJTitxf5c61Q--6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ScVFuP6iJTitxf5c61Q--3" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.laptop;" vertex="1" parent="1">
+          <mxGeometry x="135" y="14" width="50" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="ScVFuP6iJTitxf5c61Q--4" value="Local machine" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ScVFuP6iJTitxf5c61Q--5" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud_services_configuration_file;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="514" y="216.94" width="37" height="42.11" as="geometry" />
+        </mxCell>
+        <mxCell id="ScVFuP6iJTitxf5c61Q--6" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgNy41IDUwIDU3IiBoZWlnaHQ9IjU3IiB3aWR0aD0iNTAiIGlkPSJMb2dvcyI+PGRlZnM+PHN0eWxlPi5jbHMtMXtmaWxsOiM3YjQyYmM7ZmlsbC1ydWxlOmV2ZW5vZGQ7c3Ryb2tlLXdpZHRoOjBweDt9PC9zdHlsZT48L2RlZnM+PHBhdGggZD0iTTE3LjMsMTcuNWwxNS41LDl2MThsLTE1LjUtOXYtMThaIiBjbGFzcz0iY2xzLTEiLz48cGF0aCBkPSJNMzQuNSwyNi41djE4bDE1LjUtOXYtMThsLTE1LjUsOVoiIGNsYXNzPSJjbHMtMSIvPjxwYXRoIGQ9Ik0wLDcuNXYxOGwxNS41LDl2LTE4TDAsNy41WiIgY2xhc3M9ImNscy0xIi8+PHBhdGggZD0iTTE3LjMsNTUuNWwxNS41LDl2LTE4bC0xNS41LTl2MThaIiBjbGFzcz0iY2xzLTEiLz48L3N2Zz4=;" vertex="1" parent="1">
+          <mxGeometry x="414" y="215.2" width="40" height="45.6" as="geometry" />
+        </mxCell>
+        <mxCell id="ScVFuP6iJTitxf5c61Q--8" value="Run &lt;i&gt;terraform apply&lt;/i&gt; locally" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="394" y="261.74" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ScVFuP6iJTitxf5c61Q--9" value="terraform.tfstate on local machine" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="482.5" y="261.74" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ScVFuP6iJTitxf5c61Q--10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ScVFuP6iJTitxf5c61Q--6" target="ScVFuP6iJTitxf5c61Q--5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LXrLxAanXDScuGBEtvMZ-2" value="&lt;b&gt;Part 1: Local run&lt;/b&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="80" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LXrLxAanXDScuGBEtvMZ-3" value="&lt;b&gt;Part 2: Move state to&amp;nbsp; HCP TF/TFE&lt;/b&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="390" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LXrLxAanXDScuGBEtvMZ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LXrLxAanXDScuGBEtvMZ-4" target="LXrLxAanXDScuGBEtvMZ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LXrLxAanXDScuGBEtvMZ-9" value="Add terraform block&lt;div&gt;to main.tf&lt;/div&gt;&lt;div&gt;Set HCP TF/TFE credentials&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LXrLxAanXDScuGBEtvMZ-8">
+          <mxGeometry x="0.086" y="-2" relative="1" as="geometry">
+            <mxPoint x="2" y="-35" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXrLxAanXDScuGBEtvMZ-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LXrLxAanXDScuGBEtvMZ-4" target="ScVFuP6iJTitxf5c61Q--2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="264" y="110" />
+              <mxPoint x="790" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXrLxAanXDScuGBEtvMZ-31" value="repo with&lt;div&gt;original tf config&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LXrLxAanXDScuGBEtvMZ-30">
+          <mxGeometry x="0.9009" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXrLxAanXDScuGBEtvMZ-4" value="&lt;b&gt;&lt;u&gt;main.tf&lt;/u&gt;&lt;/b&gt;&lt;div&gt;&lt;div&gt;resource &quot;random_string&quot; &quot;this&quot; {&lt;/div&gt;&lt;div&gt;&amp;nbsp; length&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;= 8&lt;/div&gt;&lt;div&gt;&amp;nbsp; special&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; = true&lt;/div&gt;&lt;div&gt;&amp;nbsp; override_special = &quot;!#$%&amp;amp;*()-_=+[]{}&amp;lt;&amp;gt;:?&quot;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;output &quot;random_output&quot; {&lt;/div&gt;&lt;div&gt;&amp;nbsp; description = &quot;Random output generated&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; value&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;= random_string.this.result&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="140" y="156" width="248" height="164" as="geometry" />
+        </mxCell>
+        <mxCell id="LXrLxAanXDScuGBEtvMZ-7" value="&lt;b&gt;&lt;u&gt;main.tf&lt;/u&gt;&lt;/b&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;terraform {&lt;/div&gt;&lt;div&gt;&amp;nbsp; cloud {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; organization = &quot;glenn-hcp-org&quot;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; workspaces {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; name = &quot;test-cli-to-vcs-workspace&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; }&lt;/div&gt;&lt;div&gt;&amp;nbsp; }&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;resource &quot;random_string&quot; &quot;this&quot; {&lt;/div&gt;&lt;div&gt;&amp;nbsp; length&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;= 8&lt;/div&gt;&lt;div&gt;&amp;nbsp; special&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; = true&lt;/div&gt;&lt;div&gt;&amp;nbsp; override_special = &quot;!#$%&amp;amp;*()-_=+[]{}&amp;lt;&amp;gt;:?&quot;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;output &quot;random_output&quot; {&lt;/div&gt;&lt;div&gt;&amp;nbsp; description = &quot;Random output generated&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; value&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;= random_string.this.result&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="140" y="490" width="248" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="LXrLxAanXDScuGBEtvMZ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LXrLxAanXDScuGBEtvMZ-10" target="LXrLxAanXDScuGBEtvMZ-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LXrLxAanXDScuGBEtvMZ-10" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgNy41IDUwIDU3IiBoZWlnaHQ9IjU3IiB3aWR0aD0iNTAiIGlkPSJMb2dvcyI+PGRlZnM+PHN0eWxlPi5jbHMtMXtmaWxsOiM3YjQyYmM7ZmlsbC1ydWxlOmV2ZW5vZGQ7c3Ryb2tlLXdpZHRoOjBweDt9PC9zdHlsZT48L2RlZnM+PHBhdGggZD0iTTE3LjMsMTcuNWwxNS41LDl2MThsLTE1LjUtOXYtMThaIiBjbGFzcz0iY2xzLTEiLz48cGF0aCBkPSJNMzQuNSwyNi41djE4bDE1LjUtOXYtMThsLTE1LjUsOVoiIGNsYXNzPSJjbHMtMSIvPjxwYXRoIGQ9Ik0wLDcuNXYxOGwxNS41LDl2LTE4TDAsNy41WiIgY2xhc3M9ImNscy0xIi8+PHBhdGggZD0iTTE3LjMsNTUuNWwxNS41LDl2LTE4bC0xNS41LTl2MThaIiBjbGFzcz0iY2xzLTEiLz48L3N2Zz4=;" vertex="1" parent="1">
+          <mxGeometry x="438" y="627.2" width="40" height="45.6" as="geometry" />
+        </mxCell>
+        <mxCell id="LXrLxAanXDScuGBEtvMZ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="LXrLxAanXDScuGBEtvMZ-7" target="LXrLxAanXDScuGBEtvMZ-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="120" as="sourcePoint" />
+            <mxPoint x="355" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXrLxAanXDScuGBEtvMZ-12" value="Run &lt;i&gt;terraform init &lt;/i&gt;locally" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="418" y="672.8" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LXrLxAanXDScuGBEtvMZ-13" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud_services_configuration_file;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="439.5" y="730" width="37" height="42.11" as="geometry" />
+        </mxCell>
+        <mxCell id="LXrLxAanXDScuGBEtvMZ-14" value="terraform.tfstate.backup&lt;div&gt;on local machine&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="388" y="772.11" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LXrLxAanXDScuGBEtvMZ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LXrLxAanXDScuGBEtvMZ-12" target="LXrLxAanXDScuGBEtvMZ-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="434" y="710" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXrLxAanXDScuGBEtvMZ-18" value="HCP TF/TFE" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LXrLxAanXDScuGBEtvMZ-19" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgNy41IDUwIDU3IiBoZWlnaHQ9IjU3IiB3aWR0aD0iNTAiIGlkPSJMb2dvcyI+PGRlZnM+PHN0eWxlPi5jbHMtMXtmaWxsOiM3YjQyYmM7ZmlsbC1ydWxlOmV2ZW5vZGQ7c3Ryb2tlLXdpZHRoOjBweDt9PC9zdHlsZT48L2RlZnM+PHBhdGggZD0iTTE3LjMsMTcuNWwxNS41LDl2MThsLTE1LjUtOXYtMThaIiBjbGFzcz0iY2xzLTEiLz48cGF0aCBkPSJNMzQuNSwyNi41djE4bDE1LjUtOXYtMThsLTE1LjUsOVoiIGNsYXNzPSJjbHMtMSIvPjxwYXRoIGQ9Ik0wLDcuNXYxOGwxNS41LDl2LTE4TDAsNy41WiIgY2xhc3M9ImNscy0xIi8+PHBhdGggZD0iTTE3LjMsNTUuNWwxNS41LDl2LTE4bC0xNS41LTl2MThaIiBjbGFzcz0iY2xzLTEiLz48L3N2Zz4=;" vertex="1" parent="1">
+          <mxGeometry x="655" y="627.2" width="40" height="45.6" as="geometry" />
+        </mxCell>
+        <mxCell id="LXrLxAanXDScuGBEtvMZ-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LXrLxAanXDScuGBEtvMZ-23" target="ScVFuP6iJTitxf5c61Q--2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="675" y="890" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXrLxAanXDScuGBEtvMZ-28" value="Change workspace settings&lt;div&gt;to use version control&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LXrLxAanXDScuGBEtvMZ-27">
+          <mxGeometry x="-0.2284" y="2" relative="1" as="geometry">
+            <mxPoint x="-2" y="49" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXrLxAanXDScuGBEtvMZ-23" value="State pushed to TF workspace" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="625" y="672.8" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LXrLxAanXDScuGBEtvMZ-25" value="&lt;b&gt;Part 3: Change settings to VCS&lt;/b&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="830" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LXrLxAanXDScuGBEtvMZ-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=light-dark(#7c42bc, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="600" y="830" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="LXrLxAanXDScuGBEtvMZ-29" value="GitHub repo" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="910" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="q7OaWoOJKpEbYmYmF-rL" name="bootstrap">
+    <mxGraphModel dx="1018" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rF3y_HSQw5lLhv2STHVB-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=light-dark(#7c42bc, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="180" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="rF3y_HSQw5lLhv2STHVB-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=light-dark(#7c42bc, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="66.32" y="120" width="143.68" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="mNc41yeL6xisS_4njOcT-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rF3y_HSQw5lLhv2STHVB-1" target="mNc41yeL6xisS_4njOcT-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rF3y_HSQw5lLhv2STHVB-1" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.github;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="240" y="168.4" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rF3y_HSQw5lLhv2STHVB-3" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgNy41IDUwIDU3IiBoZWlnaHQ9IjU3IiB3aWR0aD0iNTAiIGlkPSJMb2dvcyI+PGRlZnM+PHN0eWxlPi5jbHMtMXtmaWxsOiM3YjQyYmM7ZmlsbC1ydWxlOmV2ZW5vZGQ7c3Ryb2tlLXdpZHRoOjBweDt9PC9zdHlsZT48L2RlZnM+PHBhdGggZD0iTTE3LjMsMTcuNWwxNS41LDl2MThsLTE1LjUtOXYtMThaIiBjbGFzcz0iY2xzLTEiLz48cGF0aCBkPSJNMzQuNSwyNi41djE4bDE1LjUtOXYtMThsLTE1LjUsOVoiIGNsYXNzPSJjbHMtMSIvPjxwYXRoIGQ9Ik0wLDcuNXYxOGwxNS41LDl2LTE4TDAsNy41WiIgY2xhc3M9ImNscy0xIi8+PHBhdGggZD0iTTE3LjMsNTUuNWwxNS41LDl2LTE4bC0xNS41LTl2MThaIiBjbGFzcz0iY2xzLTEiLz48L3N2Zz4=;" vertex="1" parent="1">
+          <mxGeometry x="118.16" y="165.6" width="40" height="45.6" as="geometry" />
+        </mxCell>
+        <mxCell id="rF3y_HSQw5lLhv2STHVB-7" value="GitHub repo" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="211.19999999999996" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rF3y_HSQw5lLhv2STHVB-8" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgNy41IDUwIDU3IiBoZWlnaHQ9IjU3IiB3aWR0aD0iNTAiIGlkPSJMb2dvcyI+PGRlZnM+PHN0eWxlPi5jbHMtMXtmaWxsOiM3YjQyYmM7ZmlsbC1ydWxlOmV2ZW5vZGQ7c3Ryb2tlLXdpZHRoOjBweDt9PC9zdHlsZT48L2RlZnM+PHBhdGggZD0iTTE3LjMsMTcuNWwxNS41LDl2MThsLTE1LjUtOXYtMThaIiBjbGFzcz0iY2xzLTEiLz48cGF0aCBkPSJNMzQuNSwyNi41djE4bDE1LjUtOXYtMThsLTE1LjUsOVoiIGNsYXNzPSJjbHMtMSIvPjxwYXRoIGQ9Ik0wLDcuNXYxOGwxNS41LDl2LTE4TDAsNy41WiIgY2xhc3M9ImNscy0xIi8+PHBhdGggZD0iTTE3LjMsNTUuNWwxNS41LDl2LTE4bC0xNS41LTl2MThaIiBjbGFzcz0iY2xzLTEiLz48L3N2Zz4=;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="26.32" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rF3y_HSQw5lLhv2STHVB-10" value="Terraform Organization" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="66.32" y="80" width="133.68" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rF3y_HSQw5lLhv2STHVB-11" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgNy41IDUwIDU3IiBoZWlnaHQ9IjU3IiB3aWR0aD0iNTAiIGlkPSJMb2dvcyI+PGRlZnM+PHN0eWxlPi5jbHMtMXtmaWxsOiM3YjQyYmM7ZmlsbC1ydWxlOmV2ZW5vZGQ7c3Ryb2tlLXdpZHRoOjBweDt9PC9zdHlsZT48L2RlZnM+PHBhdGggZD0iTTE3LjMsMTcuNWwxNS41LDl2MThsLTE1LjUtOXYtMThaIiBjbGFzcz0iY2xzLTEiLz48cGF0aCBkPSJNMzQuNSwyNi41djE4bDE1LjUtOXYtMThsLTE1LjUsOVoiIGNsYXNzPSJjbHMtMSIvPjxwYXRoIGQ9Ik0wLDcuNXYxOGwxNS41LDl2LTE4TDAsNy41WiIgY2xhc3M9ImNscy0xIi8+PHBhdGggZD0iTTE3LjMsNTUuNWwxNS41LDl2LTE4bC0xNS41LTl2MThaIiBjbGFzcz0iY2xzLTEiLz48L3N2Zz4=;" vertex="1" parent="1">
+          <mxGeometry x="66.32" y="120" width="26.32" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rF3y_HSQw5lLhv2STHVB-13" value="Terraform Project" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="92.64" y="120" width="97.36" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rF3y_HSQw5lLhv2STHVB-14" value="Terraform Workspace" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="92.64" y="211.20000000000002" width="97.36" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rF3y_HSQw5lLhv2STHVB-15" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgNy41IDUwIDU3IiBoZWlnaHQ9IjU3IiB3aWR0aD0iNTAiIGlkPSJMb2dvcyI+PGRlZnM+PHN0eWxlPi5jbHMtMXtmaWxsOiM3YjQyYmM7ZmlsbC1ydWxlOmV2ZW5vZGQ7c3Ryb2tlLXdpZHRoOjBweDt9PC9zdHlsZT48L2RlZnM+PHBhdGggZD0iTTE3LjMsMTcuNWwxNS41LDl2MThsLTE1LjUtOXYtMThaIiBjbGFzcz0iY2xzLTEiLz48cGF0aCBkPSJNMzQuNSwyNi41djE4bDE1LjUtOXYtMThsLTE1LjUsOVoiIGNsYXNzPSJjbHMtMSIvPjxwYXRoIGQ9Ik0wLDcuNXYxOGwxNS41LDl2LTE4TDAsNy41WiIgY2xhc3M9ImNscy0xIi8+PHBhdGggZD0iTTE3LjMsNTUuNWwxNS41LDl2LTE4bC0xNS41LTl2MThaIiBjbGFzcz0iY2xzLTEiLz48L3N2Zz4=;" vertex="1" parent="1">
+          <mxGeometry x="114.99999999999999" y="287.2" width="40" height="45.6" as="geometry" />
+        </mxCell>
+        <mxCell id="rF3y_HSQw5lLhv2STHVB-16" value="Terraform GitHub OAuth client" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="89.48" y="332.8" width="97.36" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mNc41yeL6xisS_4njOcT-1" value="&lt;b&gt;&lt;u&gt;main.tf&lt;/u&gt;&lt;/b&gt;&lt;div&gt;&lt;div&gt;resource &quot;random_string&quot; &quot;this&quot; {&lt;/div&gt;&lt;div&gt;&amp;nbsp; length&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;= 8&lt;/div&gt;&lt;div&gt;&amp;nbsp; special&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; = true&lt;/div&gt;&lt;div&gt;&amp;nbsp; override_special = &quot;!#$%&amp;amp;*()-_=+[]{}&amp;lt;&amp;gt;:?&quot;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;output &quot;random_output&quot; {&lt;/div&gt;&lt;div&gt;&amp;nbsp; description = &quot;Random output generated&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; value&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;= random_string.this.result&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="322.5" y="106.4" width="248" height="164" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
