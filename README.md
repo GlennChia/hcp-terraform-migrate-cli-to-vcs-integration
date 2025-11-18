@@ -44,7 +44,10 @@ Run `terraform init`. This creates the `.terraform` folder and `.terraform.lock.
 
 ![terraform init](./docs/03-testing/01-local-state/02-terraform-init.png)
 
-Run `terraform apply`. This creates the resource and creates a `terraform.tfstate` file
+Run `terraform apply`. This creates the resource and creates a `terraform.tfstate` file.
+
+> [!CAUTION]
+> Add a `.gitignore` file to prevent committing `terraform.tfstate` files, which may contain sensitive data, to version control.
 
 ![terraform apply](./docs/03-testing/01-local-state/03-terraform-apply.png)
 
@@ -72,7 +75,10 @@ The local `terraform.tfstate` file is now empty
 
 ![terraform state empty](./docs/03-testing/02-local-state-to-tf-state/04-terraform-state-empty.png)
 
-A `terraform.tfstate.backup` file is created locally
+A `terraform.tfstate.backup` file is created locally.
+
+> [!CAUTION]
+> Add a `.gitignore` file to prevent committing `terraform.tfstate.backup` files, which may contain sensitive data, to version control.
 
 ![terraform state backup](./docs/03-testing/02-local-state-to-tf-state/05-terraform-state-backup.png)
 
